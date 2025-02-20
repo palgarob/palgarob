@@ -23,4 +23,4 @@ Welcome to my GitHub! I'm a computational linguist currently honing my skills at
 
 ## 📫 Connect with Me
 - 📧 Email: `pedpalgarob@gmail.com`
-- 💼 LinkedIn: [your-linkedin](www.linkedin.com/in/pedropalomares)
+- 💼 [LinkedIn](www.linkedin.com/in/pedropalomares)
