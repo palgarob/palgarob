@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm **Pedro**, a **full-stack software development** enthusiast with a background in **linguistics and computational linguistics**. After earning my degree at **Universidad Complutense de Madrid**, I transitioned into the world of programming and am currently a student at **42 Urduliz**, a project-based coding campus where teamwork and hands-on learning are essencial.
+I'm Pedro, a full-stack software development enthusiast with a background in linguistics and computational linguistics. After earning my degree at Universidad Complutense de Madrid, I transitioned into the world of programming and am currently a student at **42 Urduliz**, a project-based coding campus where teamwork and hands-on learning are essencial.
 
 🎯 ‼️ At the moment, I'm **looking for an internship** where I can apply my knowledge, gain real-world experience, and continue growing as a programmer.
 
