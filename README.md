@@ -21,13 +21,15 @@ I'm Pedro, a full-stack software development enthusiast with a background in lin
 
 ## 🚀 Projects
 
-| Project           | Status         | Description                                                    |
-| ----------------- | -------------- | -------------------------------------------------------------- |
+| Project           | Status         | Description                                                     |
+| ----------------- | -------------- | --------------------------------------------------------------- |
 | **minishell**     | ✅ Done         | A shell emulator with process, signal, and thread management.  |
 | **NetPractice**   | ✅ Done         | A networking project focusing on IP configuration and routing. |
-| **miniRT**        | 🚧 In Progress | A simple ray tracer implementing the Phong reflection model.   |
-| **webserver**     | ⏳ Next         | A custom HTTP web server project.                              |
-| **C++ Modules 2** | ⏳ Next         | Advanced C++ concepts and modular programming.                 |
+| **miniRT**        | ✅ In Progress  | A simple ray tracer implementing the Phong reflection model.   |
+| **C++ Modules 5-9** | 🚧 Progress    | Advanced C++ concepts and modular programming.                 |
+| **Webserver**     | 🚧 Progress    | A custom HTTP web server project.                              |
+| **Inception**     | ⏳ Next     | Docker                                                         |
+| **ft_transcendance** | ⏳ Next | Final project |
 
 ## 🎯 What I'm Looking For
 
