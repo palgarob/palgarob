@@ -1,40 +1,38 @@
-<h3 align="center">▬ι═══════ﺤ  🐜  -═══════ι▬</h3> 
+### About Me
 
-## About Me
+I am a developer with a background in **Linguistics** and hands-on training in software engineering from the **42 cursus**. My primary interest lies at the intersection of software development and cybersecurity, and I am currently focused on building secure, robust, and efficient applications.
 
-I'm Pedro, a full-stack software development enthusiast with a background in linguistics and computational linguistics. After earning my degree at Universidad Complutense de Madrid, I transitioned into the world of programming and am currently a student at **42 Urduliz**, a project-based coding campus where teamwork and hands-on learning are essencial.
+---
 
-🎯 ‼️ At the moment, I’m looking for a junior developer position where I can apply what I’ve learned at 42, gain real-world experience, and grow professionally — especially in areas like algorithms, AI, and data.
+### Core Projects & Competencies
 
-## **42 Urduliz**
+My training at 42 provided a strong foundation in C, algorithms, and Unix system programming. Below are some of the key projects I've completed.
 
-[42 Urduliz](https://www.42urduliz.com/) is part of the global [42 Network](https://www.42network.org/), a revolutionary programming school that follows a **peer-to-peer and project-based learning** methodology. There are **no teachers, no traditional classes, and no limits**—just a continuous challenge-driven curriculum designed to foster problem-solving, creativity, and collaboration.
+| Project | Area | Core Concepts |
+| :--- | :--- | :--- |
+| `minishell` | System Programming | Shell implementation, process management, parsing |
+| `pipex` | Unix & File I/O | Inter-process communication (`pipe`), file redirection |
+| `minitalk` | System Programming | Inter-process communication using Unix signals |
+| `libft` | C Foundations | Re-implementation of standard C library functions |
 
-## Technical Skills
+---
 
-- **C/C++** ➝ Ray tracing, shell scripting, custom libraries.
-- **Python** ➝ Computational linguistics, sentiment analysis, and regex.
-- **Shell Scripting** ➝ Unix-based automation and process handling.
-- **Git** ➝ Branch management, remote repositories, and collaboration.
-- **Microcomputing** ➝ Hardware, software, and network administration.
-- **Web Technologies** ➝ (Currently expanding my knowledge in full-stack development).
+### Interests & Career Direction
 
-## 🚀 Current Projects
+My goal is to leverage my problem-solving skills in a role that combines development with security. I am particularly interested in:
 
-| Project           | Status         | Description                                                     |
-| ----------------- | -------------- | --------------------------------------------------------------- |
-| **minishell**     | ✅ Done         | A shell emulator with process, signal, and thread management.  |
-| **NetPractice**   | ✅ Done         | A networking project focusing on IP configuration and routing. |
-| **miniRT**        | ✅ Done         | A simple ray tracer implementing the Phong reflection model.   |
-| **C++ Modules 5-9** | 🚧 Progress   | Advanced C++ concepts and modular programming.                 |
-| **Webserv**       | 🚧 Progress     | A custom HTTP web server project.                              |
-| **Inception**     | 🚧 Next         | Docker                                                         |
-| **ft_transcendance** | ⏳ Next      | Final project                                                  |
+* **Application Security (AppSec):** Finding and fixing vulnerabilities within the software development lifecycle.
+* **Secure Backend Development:** Building resilient server-side logic and infrastructure.
+* **Systems Programming:** Working on low-level projects where performance and security are critical.
 
-## Contact info
+I am always open to discussing opportunities in these areas or collaborating on projects that align with my skills. Please feel free to reach out.
 
-- 📍 Based in **Bilbao, Spain** 🇪🇸
-- 📧 Email: [pedpalgarob@gmail.com](mailto\:pedpalgarob@gmail.com)
-- 🔗 [LinkedIn](http://www.linkedin.com/in/pedropalomares)
-- 💻 [GitHub](https://github.com/palgarob)
+---
 
+### Contact
+
+You can reach me at: **pedpalgarob@gmail.com**
+
+---
+
+Disclaimer 🤖: I used an AI assistant for formatting and proofreading, but the final words are all mine!
